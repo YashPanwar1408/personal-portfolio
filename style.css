@@ -1135,8 +1135,18 @@ header ul a {
         margin-top: 135%;
     }
     .card:nth-child(3) p{
-        bottom: 10%;
+        bottom: 5%;
     }
+    .card:nth-child(3) h1{
+        bottom: 23%;
+    }
+    .card:nth-child(3) card{
+       height:105%;
+    }
+    .card:nth-child(3) button{
+        bottom:1%
+    }
+
    
     .hero-info .hero-info-title{
         margin-top: 125%;
